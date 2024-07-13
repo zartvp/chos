@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "server_url": "https://bironemaster.com/config/chos/status.json",
+  "domain":"CVST7uZmpeONy3YtjLoLT3atYxgCJAsqhU8QWgwgbj2tN6g64f8lYo0gGAPiEZon",
+  "backup_server_url": "https://raw.githubusercontent.com/zartvp/chos/main/config.json",
+
+  "latest_version": 3,
+  "download_url": "https://play.google.com/store/apps/details?id=com.chos.vpn",
+  "force_update": true
+
+}
